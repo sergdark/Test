@@ -1,0 +1,8 @@
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\bin\Debug\Renderer.dll
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\bin\Debug\Renderer.pdb
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\obj\Debug\Renderer.csprojAssemblyReference.cache
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\obj\Debug\Renderer.Renderer.resources
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\obj\Debug\Renderer.csproj.GenerateResource.cache
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\obj\Debug\Renderer.csproj.CoreCompileInputs.cache
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\obj\Debug\Renderer.dll
+C:\Users\dark\source\repos\WindowsFormsApp1\Renderer\obj\Debug\Renderer.pdb
